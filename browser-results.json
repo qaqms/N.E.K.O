@@ -1,0 +1,54 @@
+[
+  {
+    "scenario": "full-merged-1280",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "full-merged-390",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "full-segmented-1280",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "full-segmented-390",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "compact-merged-1280",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "compact-merged-390",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "compact-segmented-1280",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "compact-segmented-390",
+    "passed": true,
+    "animatedFrames": 2
+  },
+  {
+    "scenario": "full-quick-next-with-dedup",
+    "passed": true
+  },
+  {
+    "scenario": "compact-quick-next-with-dedup",
+    "passed": true
+  },
+  {
+    "scenario": "old-immediate-path",
+    "passed": true
+  }
+]
